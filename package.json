@@ -1,0 +1,23 @@
+{
+  "name": "random-str-message-sandra",
+  "version": "1.0.0",
+  "description": "Mensajes aleatorios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjuly/random-str-message-sandra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanjuly/random-str-message-sandra/issues"
+  },
+  "homepage": "https://github.com/Sanjuly/random-str-message-sandra#readme",
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
